@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java/C#
 - 📫 How to reach me :
 
--Discord: xDave#4775
+-Discord: xDave#4775<br>
 -E-mail: dawid.cybula1@outlook.com
 
 <!---
