@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @dawidcybula
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Java/C#
-- 📫 How to reach me :
-
+- 📫 How to reach me :<br>
 -Discord: xDave#4775<br>
 -E-mail: dawid.cybula1@outlook.com
 
